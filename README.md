@@ -13,7 +13,8 @@ Node JS doit être installé localement => npm install
 
 ## Serveur
 
-Frontend => Démarrez "ng serve" et allez sur http://localhost:4200/. 
+Frontend => Démarrez "ng serve" et allez sur http://localhost:4200/
+
 Backend => Démarrez "nodemon server" et allez sur http://localhost:3000
 
 ## Connexion
